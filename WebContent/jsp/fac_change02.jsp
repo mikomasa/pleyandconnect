@@ -4,14 +4,11 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>施設管理者退会予約及び新規施設予約停止完了</title>
+<title>施設情報変更完了</title>
 </head>
 <body>
-	<h2>施設管理者退会予約及び予約停止が完了しました</h2>
-	<p>退会日は</p><p>になります</p>
-	<p>これ以降新規予約はされません</p>
-	<form action="" method="">
-	<p>
+	<h2>施設情報の変更が完了しました</h2>
+	<form action=" " method=" ">
 	<a href="">日付選択画面へ</a>
 	</form>
 </body>

@@ -4,15 +4,14 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>施設管理者退会予約及び新規施設予約停止完了</title>
+<title>抽選待ち</title>
 </head>
 <body>
-	<h2>施設管理者退会予約及び予約停止が完了しました</h2>
-	<p>退会日は</p><p>になります</p>
-	<p>これ以降新規予約はされません</p>
-	<form action="" method="">
-	<p>
-	<a href="">日付選択画面へ</a>
+	<h2>この予約枠はただいま抽選待ちです</h2>
+	<h3>申込者一覧</h3>
+	<table><tr><td></td></tr></table>
+	<form action=" " method=" ">
+	<a href="">抽選申込へ進む</a>
 	</form>
 </body>
 </html>
